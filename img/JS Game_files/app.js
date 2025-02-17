@@ -1,3 +1,11 @@
+let titulo = document.querySelector('h1')  
+titulo.innerHTML = 'Jogo '
+
+
+
+
+
+
 // let numeroSecreto = parseInt(Math.random() * 11)
 // let tentativas = 1
 // let chute
